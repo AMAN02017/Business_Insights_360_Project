@@ -1,5 +1,8 @@
 # Business_Insights_360_Project
 It is the project about the analysis of the brick and mortar business.
+## Dataset Link [here](https://drive.google.com/drive/folders/1cVOIUoJuPm34HMc14v7YMSU3W1urUTPH?usp=drive_link)
+
+## Report Link [here](https://drive.google.com/drive/folders/1gC_XEzpvQ16W7hSjWkZCDLbX3Cz8LyfI?usp=drive_link)
 
 ## Project Overview
 
